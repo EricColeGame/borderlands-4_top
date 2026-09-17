@@ -1,9 +1,9 @@
 {
   "site": {
-    "name": "My Seafood Stand Wiki",
-    "shortName": "My Seafood Stand",
-    "tagline": "Complete Guides, Codes, Recipes & Tier Lists",
-    "description": "Your ultimate guide to My Seafood Stand on Roblox! Explore active codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
+    "name": "Borderlands 4 Wiki",
+    "shortName": "Borderlands 4",
+    "tagline": "Builds, Weapons & Guides",
+    "description": "Borderlands 4 Wiki provides weapon guides, Vault Hunter builds, skill trees, gameplay tips, loot information, and everything players need for Kairos adventures.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
   "nav": {
@@ -31,18 +31,18 @@
     },
     "hero": {
       "eyebrow": "Fan-Made Community Wiki",
-      "title": "My Seafood Stand",
-      "description": "Master your restaurant in My Seafood Stand on Roblox. Access all active codes, complete fish & recipe catalog, optimal upgrades, and pro money-making strategies.",
+      "title": "Borderlands 4 Wiki",
+      "description": "Borderlands 4 is a chaotic looter shooter RPG featuring new Vault Hunters, billions of weapons, deep character builds, cooperative multiplayer, and an adventure across the dangerous planet Kairos.",
       "stats": [
-        "All Codes",
-        "All Fish & Recipes",
-        "Upgrade Guides",
-        "Fast Cash Tips"
+        "Release: 2025",
+        "4 Vault Hunters",
+        "Billions of Weapons",
+        "Weekly Updates"
       ],
-      "primaryCta": "Beginner Guide",
-      "secondaryCta": "Seafood Tier List",
-      "tertiaryCta": "Active Codes",
-      "videoLabel": "Official media"
+      "primaryCta": "Vault Hunter Builds",
+      "secondaryCta": "Weapon Database",
+      "tertiaryCta": "Kairos Guides",
+      "videoLabel": "Official Trailer"
     },
     "updates": {
       "title": "Latest Updates",
@@ -342,10 +342,10 @@
       ]
     },
     "finalCta": {
-      "title": "Ready to Master My Seafood Stand?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
-      "primary": "Read the Beginner Guide",
-      "secondary": "Play on Roblox"
+      "title": "Ready to Explore Kairos in Borderlands 4?",
+      "description": "From your initial Vault Hunter build to legendary loot farming and endgame boss encounters, our community wiki has you covered with comprehensive guides.",
+      "primary": "Explore Builds & Guides",
+      "secondary": "Official Website"
     }
   },
   "bosses": {
@@ -379,19 +379,19 @@
     "noGuidesAvailable": "No guides available yet. Check back soon!"
   },
   "footer": {
-    "aboutTitle": "My Seafood Stand Wiki",
-    "about": "My Seafood Stand Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "aboutTitle": "Borderlands 4 Wiki",
+    "about": "Borderlands 4 Wiki is an independent fan-built guide hub covering Vault Hunter builds, weapons, planetary exploration on Kairos, bosses, and essential gameplay knowledge.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 My Seafood Stand Wiki. Not affiliated with Midnight Continent or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play My Seafood Stand",
-    "officialDiscord": "Official Discord",
+    "copyright": "2026 Borderlands 4 Wiki. Not affiliated with 2K or Gearbox Software.",
+    "description": "Chaotic looter shooter RPG featuring new Vault Hunters, billions of weapons, and cooperative multiplayer on Kairos.",
+    "playGame": "Official Website",
+    "officialDiscord": "Official Reddit",
     "officialYoutube": "Official YouTube",
-    "vvBuilder": "VV Builder (Skill Planner)",
+    "vvBuilder": "Skill Tree Builder",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
+    "raceGuides": "Vault Hunters",
     "bossGuides": "Boss Guides",
     "buildGuide": "Build Guide",
     "privacyPolicy": "Privacy Policy",
