@@ -1,0 +1,14 @@
+{
+  "name": "borderlands-4-top",
+  "compatibility_date": "2024-09-01",
+  "workers_dev": false,
+  "assets": {
+    "directory": "./out"
+  },
+  "routes": [
+    {
+      "pattern": "borderlands-4.top",
+      "custom_domain": true
+    }
+  ]
+}
