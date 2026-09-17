@@ -1,1 +1,449 @@
-{}
+{
+  "site": {
+    "name": "Borderlands 4 Wiki",
+    "shortName": "Borderlands 4",
+    "tagline": "Builds, Armes & Guides",
+    "description": "Le Wiki Borderlands 4 propose des guides d'armes, des builds de Chasseurs de l'Arche, des arbres de compétences, des astuces de jeu, des infos sur le butin et tout ce dont les joueurs ont besoin pour leurs aventures sur Kairos.",
+    "legalNotice": "Wiki de fans non officiel. Créé par des joueurs, pour des joueurs."
+  },
+  "nav": {
+    "codes": "Codes",
+    "guide": "Guide",
+    "characters": "Personnages",
+    "combat": "Combat",
+    "items": "Objets",
+    "maps": "Cartes",
+    "progression": "Progression"
+  },
+  "home": {
+    "meta": {
+      "title": "Borderlands 4 Wiki — Builds, Armes, Chasseurs de l'Arche & Guides",
+      "description": "Wiki communautaire complet sur Borderlands 4 avec les meilleurs builds de Chasseurs de l'Arche, des guides d'armes, des SHiFT Codes, les missions et des stratégies de survie sur Kairos."
+    },
+    "hero": {
+      "eyebrow": "Wiki Communautaire de Fans",
+      "title": "Borderlands 4 Wiki",
+      "description": "Borderlands 4 est un RPG looter shooter chaotique comprenant de nouveaux Chasseurs de l'Arche, des milliards d'armes, des builds de personnages approfondis, du multijoueur coopératif et une aventure à travers la dangereuse planète Kairos.",
+      "stats": [
+        "Sortie : 2025",
+        "4 Chasseurs de l'Arche",
+        "Milliards d'armes",
+        "Mises à jour hebdo"
+      ],
+      "primaryCta": "Builds de Chasseurs",
+      "secondaryCta": "Base de données d'armes",
+      "tertiaryCta": "Guides de Kairos",
+      "videoLabel": "Bande-annonce officielle"
+    },
+    "updates": {
+      "title": "Dernières Mises à Jour",
+      "browse": "Parcourir tous les guides",
+      "viewAll": "Tout voir"
+    },
+    "start": {
+      "eyebrow": "Commencer Ici",
+      "title": "Votre Aventure Borderlands 4",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guide du Débutant",
+          "description": "Maîtrisez les mécaniques clés du looter shooter, les systèmes de déplacement, les boucles de combat et les astuces de survie pour débuter sur la frontière hostile de Kairos."
+        },
+        {
+          "number": "2",
+          "title": "Classes de Chasseurs de l'Arche",
+          "description": "Comparez les quatre Chasseurs de l'Arche jouables, leurs compétences d'action distinctives et leurs arbres de compétences pour trouver votre style de jeu idéal."
+        },
+        {
+          "number": "3",
+          "title": "Leveling rapide & XP",
+          "description": "Accélérez votre progression grâce à des itinéraires optimisés de quêtes, des zones de farm d'ennemis et des bonus d'XP pour atteindre le endgame plus vite."
+        },
+        {
+          "number": "4",
+          "title": "Armes & Butin Légendaire",
+          "description": "Découvrez les spécificités des fabricants d'armes, les niveaux de rareté du butin et les stratégies de farm pour obtenir l'équipement le plus destructeur."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Pages Populaires",
+      "title": "Tendances Actuelles",
+      "quickLinks": [
+        "Builds de Chasseurs",
+        "Armes Légendaires",
+        "SHiFT Codes",
+        "Guide du Débutant"
+      ],
+      "cards": [
+        {
+          "badge": "Débutant",
+          "title": "Guide du Débutant",
+          "description": "Tout ce dont vous avez besoin, de votre arrivée sur Kairos à la maîtrise des armes, des boucliers et des mécaniques de combat.",
+          "href": "/guide/borderlands-4-beginner-guide"
+        },
+        {
+          "badge": "Mis à jour",
+          "title": "SHiFT Codes",
+          "description": "SHiFT Codes actifs pour Borderlands 4 pour obtenir des Clés Dorées, des cosmétiques et des caches d'armes gratuites.",
+          "href": "/codes/borderlands-4-shift-codes"
+        },
+        {
+          "badge": "Builds",
+          "title": "Builds de Chasseurs de l'Arche",
+          "description": "Meilleurs builds de fin de jeu, répartitions des points de compétence et synergies d'équipement pour les quatre Chasseurs de l'Arche.",
+          "href": "/combat/borderlands-4-builds"
+        },
+        {
+          "badge": "Butin",
+          "title": "Armes Légendaires",
+          "description": "Base de données complète des armes légendaires, spécificités des fabricants, effets uniques et sources d'obtention de butin.",
+          "href": "/items/borderlands-4-legendary-weapons"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Qu'est-ce que Borderlands 4 ?",
+      "paragraphs": [
+        "Borderlands 4 est un RPG looter shooter chaotique développé par Gearbox Software et édité par 2K. Situé sur la nouvelle et périlleuse planète Kairos, les joueurs incarnent l'un des quatre redoutables Chasseurs de l'Arche en quête de fortune, de pouvoir et de gloire face à l'impitoyable Timekeeper et à des factions hostiles.",
+        "Proposant des milliards d'armes incroyablement variées, des arbres de compétences approfondis, des combats viscéraux et un mode coopératif fluide jusqu'à 4 joueurs, Borderlands 4 offre l'expérience looter shooter ultime à travers de nouvelles frontières extraterrestres explosives."
+      ],
+      "stats": [
+        {
+          "label": "Développeur",
+          "value": "Gearbox Software"
+        },
+        {
+          "label": "Éditeur",
+          "value": "2K"
+        },
+        {
+          "label": "Genre",
+          "value": "Action-RPG Looter Shooter"
+        },
+        {
+          "label": "Année de sortie",
+          "value": "2025"
+        },
+        {
+          "label": "Plateformes",
+          "value": "PC, PS5, Xbox Series X|S"
+        },
+        {
+          "label": "Chasseurs de l'Arche",
+          "value": "4 classes jouables"
+        },
+        {
+          "label": "Armes",
+          "value": "Milliards d'armes"
+        },
+        {
+          "label": "Multijoueur",
+          "value": "Coop 1 à 4 joueurs"
+        }
+      ],
+      "cta": "Explorer tous les guides"
+    },
+    "explore": {
+      "title": "Explorer le Wiki Borderlands 4",
+      "description": "Maîtrisez les builds de Chasseurs de l'Arche, découvrez les armes légendaires, activez des SHiFT Codes et partez à la conquête du monde hostile de Kairos grâce à nos guides complets.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Builds Borderlands 4",
+          "description": "Ce module couvre les builds populaires de Chasseurs de l'Arche, les combinaisons d'arbres de compétences, les configurations de compétences d'action et les équipements recommandés pour chaque style de jeu. Les joueurs à la recherche des meilleures configurations Borderlands 4 trouveront ici des options optimisées pour le endgame comme pour débuter.",
+          "href": "/combat/borderlands-4-builds",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Critique",
+              "detail": "Configuration de sniper à haute vélocité pour coups critiques et DPS explosif"
+            },
+            {
+              "label": "Effet",
+              "detail": "Dégâts élémentaires sur la durée pour faire fondre armures et boucliers"
+            },
+            {
+              "label": "Tank",
+              "detail": "Régénération de bouclier et build de première ligne axé sur la survie"
+            },
+            {
+              "label": "Explosif",
+              "detail": "Dégâts de zone explosifs massifs et spécialisation en grenades"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guide des Chasseurs de l'Arche de Borderlands 4",
+          "description": "Présente les Chasseurs de l'Arche jouables, leurs capacités, leurs classes et leurs styles de combat uniques. Cette section aide les joueurs à comparer les personnages avant de commencer une nouvelle campagne ou de choisir leur personnage principal.",
+          "href": "/characters/borderlands-4-vault-hunters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Chasseur",
+              "detail": "Traqueur de précision utilisant des invocations tactiques et de l'artillerie mortelle à longue distance"
+            },
+            {
+              "label": "Sirène",
+              "detail": "Spécialiste de l'énergie de phase manipulant la gravité, les vagues élémentaires et le contrôle de foule"
+            },
+            {
+              "label": "Soldat",
+              "detail": "Spécialiste des armes lourdes déployant des défenses tactiques et des réserves de munitions"
+            },
+            {
+              "label": "Bagarreur",
+              "detail": "Colosse cybernétique de combat rapproché axé sur des impacts au corps-à-corps implacables"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guide des Armes de Borderlands 4",
+          "description": "Fournit des informations sur les armes légendaires, les systèmes de butin, les fabricants d'armes et les stratégies de farm. Répond aux recherches des joueurs cherchant du matériel puissant et des recommandations d'armes.",
+          "href": "/items/borderlands-4-legendary-weapons",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Armes à feu légendaires d'élite avec des effets révolutionnaires et un DPS suprême contre les boss"
+            },
+            {
+              "label": "A",
+              "detail": "Armes polyvalentes très performantes avec un puissant scaling élémentaire"
+            },
+            {
+              "label": "B",
+              "detail": "Armes fiables pour le milieu de partie et le leveling avec de solides synergies de fabricants"
+            },
+            {
+              "label": "C",
+              "detail": "Armes situationnelles adaptées à des défis spécifiques ou au début de campagne"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guide du Débutant Borderlands 4",
+          "description": "Un guide de départ couvrant les systèmes de jeu de base, les mécaniques de combat, l'exploration, la coop et les conseils de progression. Il aide les nouveaux joueurs à assimiler rapidement l'expérience looter shooter.",
+          "href": "/guide/borderlands-4-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Choisissez votre Chasseur de l'Arche de départ selon votre rythme de combat favori"
+            },
+            {
+              "label": "2",
+              "detail": "Équipez des armes élémentaires adaptées contre les boucliers, l'armure et la chair"
+            },
+            {
+              "label": "3",
+              "detail": "Investissez vos premiers points dans le temps de recharge des compétences et la survie"
+            },
+            {
+              "label": "4",
+              "detail": "Explorez les caches d'Arche secrètes sur Kairos pour obtenir du butin de haut rang garanti"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guide des Missions de Borderlands 4",
+          "description": "Répertorie les missions de l'histoire principale, les quêtes secondaires, les objectifs et les activités incontournables à travers Kairos. Ce module est conçu pour les recherches de soluces et de progression de quêtes.",
+          "href": "/guide/borderlands-4-walkthrough",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Prologue & Arrivée : Établissez une tête de pont sur Kairos"
+            },
+            {
+              "label": "2",
+              "detail": "Diplomatie de Faction : Alliez-vous aux avant-postes locaux et à la résistance"
+            },
+            {
+              "label": "3",
+              "detail": "Infiltration de la Clé de l'Arche : Déverrouillez les ruines extraterrestres gardées par le Timekeeper"
+            },
+            {
+              "label": "4",
+              "detail": "Affrontement Endgame : Relevez les défis du mode Chasseur Ultime et battez les boss de raid"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Borderlands 4 SHiFT Codes",
+          "description": "Suit les annonces officielles de SHiFT Codes, les instructions d'utilisation et les récompenses disponibles. Idéal pour les joueurs cherchant des cadeaux gratuits et des Clés Dorées.",
+          "href": "/codes/borderlands-4-shift-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "BL4-KEYS-2025",
+              "detail": "3x Clés Dorées pour les coffres à butin de Sanctuary et Kairos",
+              "badge": "Actif"
+            },
+            {
+              "label": "VAULT-HUNT-XP",
+              "detail": "Skin d'arme de Chasseur de l'Arche en édition limitée & Booster d'XP",
+              "badge": "Actif"
+            },
+            {
+              "label": "KAIROS-LOOT-BOX",
+              "detail": "À utiliser sur le portail 2K SHiFT ou dans le menu Social en jeu",
+              "badge": "Actif"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Mises à jour Borderlands 4",
+          "description": "Affiche les notes de patch officielles, les annonces de DLC, les contenus saisonniers et les correctifs. Suivez les nouveautés, les équilibrages et le contenu post-lancement provenant des sources officielles.",
+          "href": "/guide/borderlands-4-tips-and-tricks",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Patch",
+              "detail": "Patch d'équilibrage Day One optimisant les performances et le taux de drop des armes"
+            },
+            {
+              "label": "Saison",
+              "detail": "Événements saisonniers à venir avec récompenses cosmétiques exclusives"
+            },
+            {
+              "label": "Feuille de route",
+              "detail": "Extensions de campagne scénarisées en DLC et nouveaux boss de raid post-lancement"
+            },
+            {
+              "label": "Hotfix",
+              "detail": "Ajustements hebdomadaires des effets d'équipements légendaires et de l'équilibrage des ennemis"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Guide des Éditions de Borderlands 4",
+          "description": "Compare les éditions disponibles, les bonus de précommande, les packs DLC et les versions par plateforme. Cette section oriente les utilisateurs sur les options d'achat et les différences entre éditions.",
+          "href": "/characters/borderlands-4-all-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Standard",
+              "detail": "Jeu de base comprenant toute la campagne planétaire sur Kairos et les modes coopératifs"
+            },
+            {
+              "label": "Deluxe",
+              "detail": "Comprend le Pack Cosmétique Rétro, les skins d'armes Néon et un mod booster d'XP"
+            },
+            {
+              "label": "Super",
+              "detail": "Comprend le Season Pass avec 4 extensions de campagne scénarisées en DLC"
+            },
+            {
+              "label": "Collector",
+              "detail": "Réplique physique d'une Clé de l'Arche, artbook et butin numérique exclusif"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Foire Aux Questions",
+      "description": "Questions et réponses essentielles sur le gameplay, les plateformes, les builds et les fonctionnalités de Borderlands 4.",
+      "items": [
+        {
+          "question": "Qu'est-ce que Borderlands 4 ?",
+          "answer": "Borderlands 4 est un RPG d'action looter shooter de premier plan développé par Gearbox Software et 2K, emmenant les joueurs sur la dangereuse planète Kairos avec de nouveaux Chasseurs de l'Arche, des milliards d'armes et une action coopérative explosive à quatre joueurs."
+        },
+        {
+          "question": "Sur quelles plateformes Borderlands 4 sera-t-il disponible ?",
+          "answer": "Borderlands 4 sort sur PC (via Steam et Epic Games Store), PlayStation 5 et Xbox Series X|S, avec prise en charge complète du multijoueur coopératif en cross-play."
+        },
+        {
+          "question": "Combien de Chasseurs de l'Arche sont jouables dans Borderlands 4 ?",
+          "answer": "Borderlands 4 propose quatre tout nouveaux Chasseurs de l'Arche jouables dès la sortie, chacun doté de compétences d'action personnalisables, d'arbres de compétences dédiés et d'archétypes de combat distincts."
+        },
+        {
+          "question": "Comment fonctionnent les SHiFT Codes dans Borderlands 4 ?",
+          "answer": "Dans Borderlands 4, les joueurs peuvent activer les SHiFT Codes officiels via le menu Social en jeu ou sur le site officiel Gearbox SHiFT afin de recevoir des Clés Dorées, des caches d'armes rares et des skins cosmétiques exclusifs."
+        },
+        {
+          "question": "Borderlands 4 propose-t-il un mode solo hors-ligne et de la coopération ?",
+          "answer": "Oui, Borderlands 4 peut être joué entièrement en solo hors-ligne ou jusqu'à quatre joueurs en coop en ligne avec ajustement dynamique du niveau et butin individualisé."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Prêt à explorer Kairos dans Borderlands 4 ?",
+      "description": "De votre premier build de Chasseur de l'Arche au farm de butin légendaire et aux boss de fin de jeu, notre wiki communautaire vous accompagne avec des guides complets.",
+      "primary": "Explorer les Builds & Guides",
+      "secondary": "Site Officiel"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Navigation du Wiki",
+    "activeCodes": "Codes Actifs",
+    "updated": "Mis à jour",
+    "viewAllCodes": "Voir tous les codes",
+    "playOnRoblox": "Jouer sur Roblox",
+    "inThisSection": "Dans cette section",
+    "tableOfContents": "Table des matières",
+    "nextSteps": "Étapes suivantes",
+    "needHelp": "Besoin d'aide ?",
+    "relatedReading": "Lectures recommandées",
+    "relatedGuides": "Guides associés",
+    "readMore": "En savoir plus",
+    "officialMedia": "Médias officiels",
+    "home": "Accueil",
+    "noGuidesAvailable": "Aucun guide disponible pour le moment. Revenez bientôt !"
+  },
+  "footer": {
+    "aboutTitle": "Borderlands 4 Wiki",
+    "about": "Borderlands 4 Wiki est un hub de guides indépendant créé par des fans, couvrant les builds de Chasseurs de l'Arche, les armes, l'exploration de Kairos, les boss et les connaissances essentielles de jeu.",
+    "quickLinks": "Liens Rapides",
+    "guides": "Guides",
+    "legal": "Mentions Légales",
+    "copyright": "2026 Borderlands 4 Wiki. Non affilié à 2K ou Gearbox Software.",
+    "description": "RPG looter shooter chaotique comprenant de nouveaux Chasseurs de l'Arche, des milliards d'armes et du multijoueur coopératif sur Kairos.",
+    "playGame": "Site Officiel",
+    "officialDiscord": "Reddit Officiel",
+    "officialYoutube": "YouTube Officiel",
+    "vvBuilder": "Planificateur d'Arbre de Compétences",
+    "beginnerGuide": "Guide du Débutant",
+    "raceGuides": "Chasseurs de l'Arche",
+    "bossGuides": "Guides de Boss",
+    "buildGuide": "Guide de Builds",
+    "privacyPolicy": "Politique de Confidentialité",
+    "termsOfService": "Conditions d'Utilisation"
+  },
+  "codes": {
+    "overviewTitle": "Borderlands 4 SHiFT Codes & Récompenses",
+    "overviewDescription": "Consultez les SHiFT Codes actifs et vérifiés pour Borderlands 4 afin de débloquer des Clés Dorées gratuites, des armes exclusives et des objets cosmétiques."
+  },
+  "guide": {
+    "overviewTitle": "Guides & Soluces Borderlands 4",
+    "overviewDescription": "Guides essentiels pour débutants, soluces de succès, astuces de jeu et stratégies de survie pour explorer les terres de Kairos."
+  },
+  "characters": {
+    "overviewTitle": "Chasseurs de l'Arche & Personnages de Borderlands 4",
+    "overviewDescription": "Aperçu complet de tous les Chasseurs de l'Arche jouables, de leurs compétences d'action, de leurs archétypes de classe et de l'histoire des personnages de Borderlands 4."
+  },
+  "combat": {
+    "overviewTitle": "Builds & Guides de Combat Borderlands 4",
+    "overviewDescription": "Dominez le champ de bataille grâce aux meilleurs builds de Chasseurs de l'Arche, classements d'armes, tableaux de dégâts élémentaires et configurations de combat optimales."
+  },
+  "items": {
+    "overviewTitle": "Armes & Objets Légendaires de Borderlands 4",
+    "overviewDescription": "Base de données détaillée des armes légendaires, équipements nacrés, traits de fabricants, farm d'Eridium et améliorations d'équipement dans Borderlands 4."
+  },
+  "maps": {
+    "overviewTitle": "Cartes & Lieux de Borderlands 4",
+    "overviewDescription": "Cartes planétaires interactives, emplacements des Arches, marchands clandestins secrets et points d'intérêt majeurs sur Kairos."
+  },
+  "progression": {
+    "overviewTitle": "Progression, Leveling & Endgame de Borderlands 4",
+    "overviewDescription": "Montez rapidement en niveau, découvrez les meilleurs itinéraires de farm d'XP et venez à bout des modes de fin de jeu, y compris le mode Chasseur Ultime."
+  }
+}

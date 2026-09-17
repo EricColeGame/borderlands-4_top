@@ -1,1 +1,449 @@
-{}
+{
+  "site": {
+    "name": "Borderlands 4 Wiki",
+    "shortName": "Borderlands 4",
+    "tagline": "Builds, Waffen & Guides",
+    "description": "Das Borderlands 4 Wiki bietet Waffen-Guides, Kammer-Jäger-Builds, Skillbäume, Gameplay-Tipps, Beute-Informationen und alles, was Spieler für ihre Abenteuer auf Kairos brauchen.",
+    "legalNotice": "Inoffizielles Fan-Wiki. Von Spielern, für Spieler."
+  },
+  "nav": {
+    "codes": "Codes",
+    "guide": "Guides",
+    "characters": "Charaktere",
+    "combat": "Kampf",
+    "items": "Gegenstände",
+    "maps": "Karten",
+    "progression": "Fortschritt"
+  },
+  "home": {
+    "meta": {
+      "title": "Borderlands 4 Wiki — Builds, Waffen, Kammer-Jäger & Guides",
+      "description": "Umfassendes Borderlands 4 Community-Wiki mit den besten Kammer-Jäger-Builds, Waffen-Guides, SHiFT Codes, Missionen und Überlebensstrategien für Kairos."
+    },
+    "hero": {
+      "eyebrow": "Community-Wiki von Fans",
+      "title": "Borderlands 4 Wiki",
+      "description": "Borderlands 4 ist ein chaotisches Looter-Shooter-RPG mit neuen Kammer-Jägern, Milliarden von Waffen, tiefgründigen Charakter-Builds, Koop-Multiplayer und einem Abenteuer auf dem gefährlichen Planeten Kairos.",
+      "stats": [
+        "Release: 2025",
+        "4 Kammer-Jäger",
+        "Milliarden Waffen",
+        "Wöchentliche Updates"
+      ],
+      "primaryCta": "Kammer-Jäger-Builds",
+      "secondaryCta": "Waffendatenbank",
+      "tertiaryCta": "Kairos-Guides",
+      "videoLabel": "Offizieller Trailer"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Alle Guides durchsuchen",
+      "viewAll": "Alle anzeigen"
+    },
+    "start": {
+      "eyebrow": "Hier starten",
+      "title": "Deine Reise in Borderlands 4",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Einsteiger-Guide",
+          "description": "Meistere grundlegende Looter-Shooter-Mechaniken, Bewegungssysteme, Kampfschleifen und frühe Überlebenstipps in der gefährlichen Wildnis von Kairos."
+        },
+        {
+          "number": "2",
+          "title": "Kammer-Jäger-Klassen",
+          "description": "Vergleiche alle vier spielbaren Kammer-Jäger, ihre unverwechselbaren Action-Skills und Skillbaum-Zweige, um deinen idealen Spielstil zu finden."
+        },
+        {
+          "number": "3",
+          "title": "Schnellstes Leveln & XP",
+          "description": "Beschleunige deinen Fortschritt mit optimalen Quest-Routen, Mob-Farming-Strecken und XP-Boni, um das Endgame schneller zu erreichen."
+        },
+        {
+          "number": "4",
+          "title": "Waffen & Legendäre Beute",
+          "description": "Lerne die Eigenschaften der Waffenhersteller, Beute-Seltenheitsstufen und Farming-Strategien kennen, um dir die tödlichsten Knarren und Ausrüstungen zu sichern."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Aktuelle Trends",
+      "quickLinks": [
+        "Kammer-Jäger-Builds",
+        "Legendäre Waffen",
+        "SHiFT Codes",
+        "Einsteiger-Guide"
+      ],
+      "cards": [
+        {
+          "badge": "Einsteiger",
+          "title": "Einsteiger-Guide",
+          "description": "Alles, was du von deiner ersten Ankunft auf Kairos bis zur Beherrschung von Waffen, Schilden und Kampfmechaniken wissen musst.",
+          "href": "/guide/borderlands-4-beginner-guide"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "SHiFT Codes",
+          "description": "Aktive Borderlands 4 SHiFT Codes für Goldene Schlüssel, Kosmetika und kostenlose Waffen-Caches.",
+          "href": "/codes/borderlands-4-shift-codes"
+        },
+        {
+          "badge": "Builds",
+          "title": "Kammer-Jäger-Builds",
+          "description": "Top-Endgame-Builds, Skill-Punkte-Verteilungen und Ausrüstungssynergien für alle vier Kammer-Jäger.",
+          "href": "/combat/borderlands-4-builds"
+        },
+        {
+          "badge": "Loot",
+          "title": "Legendäre Waffen",
+          "description": "Vollständige Datenbank legendärer Schusswaffen, Hersteller-Gimmicks, einzigartiger Effekte und Drop-Quellen beim Farmen.",
+          "href": "/items/borderlands-4-legendary-weapons"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist Borderlands 4?",
+      "paragraphs": [
+        "Borderlands 4 ist ein chaotisches Looter-Shooter-RPG, das von Gearbox Software entwickelt und von 2K veröffentlicht wird. Auf dem gefährlichen neuen Planeten Kairos schlüpfen die Spieler in die Rolle von einem von vier formidablen Kammer-Jägern, die gegen den unbarmherzigen Timekeeper und feindliche Fraktionen nach Ruhm, Macht und Reichtum streben.",
+        "Mit Milliarden von fantasievollen Waffen, vielschichtigen Skillbäumen, wuchtigem Gunplay und nahtlosem 4-Spieler-Koop-Multiplayer bietet Borderlands 4 das ultimative Looter-Shooter-Erlebnis in explosiven neuen Alien-Welten."
+      ],
+      "stats": [
+        {
+          "label": "Entwickler",
+          "value": "Gearbox Software"
+        },
+        {
+          "label": "Publisher",
+          "value": "2K Games"
+        },
+        {
+          "label": "Genre",
+          "value": "Looter-Shooter-RPG"
+        },
+        {
+          "label": "Erscheinungsjahr",
+          "value": "2025"
+        },
+        {
+          "label": "Plattformen",
+          "value": "PC, PS5, Xbox Series X|S"
+        },
+        {
+          "label": "Kammer-Jäger",
+          "value": "4 spielbare Klassen"
+        },
+        {
+          "label": "Waffen",
+          "value": "Milliarden von Knarren"
+        },
+        {
+          "label": "Multiplayer",
+          "value": "1-4 Spieler Koop"
+        }
+      ],
+      "cta": "Alle Guides entdecken"
+    },
+    "explore": {
+      "title": "Borderlands 4 Wiki entdecken",
+      "description": "Meistere Kammer-Jäger-Builds, finde legendäre Waffen, löse SHiFT Codes ein und bezwinge die gefährliche Welt von Kairos mit unseren Guides.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Borderlands 4 Builds",
+          "description": "Dieses Modul deckt beliebte Kammer-Jäger-Builds, Skillbaum-Kombinationen, Action-Skill-Setups und empfohlene Ausrüstung für verschiedene Spielstile ab. Spieler, die nach den besten Build-Optionen für Borderlands 4 suchen, finden hier Setups für das Endgame und für Einsteiger.",
+          "href": "/combat/borderlands-4-builds",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Krit",
+              "detail": "Präzises Scharfschützen- und Burst-DPS-Setup für massive kritische Treffer"
+            },
+            {
+              "label": "Status",
+              "detail": "Elementarer Schaden über Zeit, der Rüstung und Schilde dahinschmelzen lässt"
+            },
+            {
+              "label": "Tank",
+              "detail": "Frontlinien-Build mit Fokus auf Schildregeneration und maximale Überlebensfähigkeit"
+            },
+            {
+              "label": "Geschütz",
+              "detail": "Spezialisierung auf schweren explosiven Flächenschaden und Granaten"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Borderlands 4 Kammer-Jäger-Guide",
+          "description": "Stellt die spielbaren Kammer-Jäger, ihre Fähigkeiten, Klassen und einzigartigen Kampfstile vor. Dieser Bereich hilft Spielern beim Vergleich der Charaktere vor dem Start einer neuen Kampagne.",
+          "href": "/characters/borderlands-4-vault-hunters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Jäger",
+              "detail": "Präzisionstracker mit taktischen Beschwörungen und tödlicher Fernkampf-Artillerie"
+            },
+            {
+              "label": "Sirene",
+              "detail": "Phasenenergie-Spezialistin zur Kontrolle von Gravitation, Elementarwellen und Gegnermassen"
+            },
+            {
+              "label": "Soldat",
+              "detail": "Schwerwaffen-Spezialist mit stationären Verteidigungsgeschützen und Munitionsunterstützung"
+            },
+            {
+              "label": "Schläger",
+              "detail": "Kybernetischer Nahkampf-Koloss, der auf unnachgiebige Schläge im Nahbereich setzt"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Borderlands 4 Waffen-Guide",
+          "description": "Liefert Informationen über legendäre Waffen, Beutesysteme, Hersteller und Farming-Strategien. Ideal für Spieler, die nach mächtiger Ausrüstung und Empfehlungen suchen.",
+          "href": "/items/borderlands-4-legendary-weapons",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Spitzenklasse legendärer Schusswaffen mit bahnbrechenden Perks und überragendem Boss-DPS"
+            },
+            {
+              "label": "A",
+              "detail": "Vielseitige Hochleistungswaffen mit starker Elementarskalierung"
+            },
+            {
+              "label": "B",
+              "detail": "Zuverlässige Waffen für das Mid-Game und Leveln mit soliden Herstellersynergien"
+            },
+            {
+              "label": "C",
+              "detail": "Situative Waffen, geeignet für spezifische Herausforderungen oder die frühe Kampagne"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Borderlands 4 Einsteiger-Guide",
+          "description": "Ein Leitfaden für den Einstieg, der Gameplay-Systeme, Kampfmechaniken, Erkundung, Koop-Features und Fortschrittstipps abdeckt. Erleichtert Neulingen den schnellen Einstieg.",
+          "href": "/guide/borderlands-4-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Wähle deinen Starter-Kammer-Jäger passend zu deinem bevorzugten Kampftempo"
+            },
+            {
+              "label": "2",
+              "detail": "Nutze die passenden Elementarwaffen gezielt gegen Schilde, Rüstung und Fleisch"
+            },
+            {
+              "label": "3",
+              "detail": "Investiere frühe Skill-Punkte in Action-Skill-Abklingzeit und Überlebensfähigkeit"
+            },
+            {
+              "label": "4",
+              "detail": "Entdecke versteckte Kammer-Verstecke auf Kairos für garantierte hochstufige Beute"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Borderlands 4 Missions-Guide",
+          "description": "Strukturiert Hauptstory-Missionen, Nebenquests, Ziele und wichtige Aktivitäten auf Kairos. Perfekt für die Suche nach Komplettlösungen und Quest-Fortschritten.",
+          "href": "/guide/borderlands-4-walkthrough",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Prolog & Ankunft: Errichte einen ersten Stützpunkt an der Front auf Kairos"
+            },
+            {
+              "label": "2",
+              "detail": "Fraktionsdiplomatie: Verbünde dich mit Außenposten und Widerstandskämpfern"
+            },
+            {
+              "label": "3",
+              "detail": "Kammerschlüssel-Infiltration: Öffne versiegelte Ruinen, die vom Timekeeper bewacht werden"
+            },
+            {
+              "label": "4",
+              "detail": "Endgame-Showdown: Schließe Ultimative-Kammer-Jäger-Herausforderungen und Raid-Bosse ab"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Borderlands 4 SHiFT Codes",
+          "description": "Verfolgt offizielle SHiFT-Code-Ankündigungen, Einlöse-Anleitungen und Belohnungen. Ideal für Spieler auf der Suche nach kostenlosen Belohnungen und Goldenen Schlüsseln.",
+          "href": "/codes/borderlands-4-shift-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "BL4-KEYS-2025",
+              "detail": "3x Goldene Schlüssel für Sanctuary- & Kairos-Beutekisten",
+              "badge": "Aktiv"
+            },
+            {
+              "label": "VAULT-HUNT-XP",
+              "detail": "Limitierter Kammer-Jäger-Waffenskin & XP-Booster",
+              "badge": "Aktiv"
+            },
+            {
+              "label": "KAIROS-LOOT-BOX",
+              "detail": "Einlösbar im 2K SHiFT-Portal oder im Social-Menü im Spiel",
+              "badge": "Aktiv"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Borderlands 4 Updates",
+          "description": "Zeigt offizielle Patchnotizen, DLC-Ankündigungen, saisonale Inhalte und Gameplay-Updates. Bleibe über neue Features und Balance-Anpassungen informiert.",
+          "href": "/guide/borderlands-4-tips-and-tricks",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Patch",
+              "detail": "Day-One-Balance-Patch zur Optimierung von Performance und Beute-Dropraten"
+            },
+            {
+              "label": "Saison",
+              "detail": "Kommende saisonale Events mit exklusiven kosmetischen Belohnungen"
+            },
+            {
+              "label": "Roadmap",
+              "detail": "Geplante Story-DLC-Erweiterungen und zusätzliche Raid-Boss-Begegnungen"
+            },
+            {
+              "label": "Hotfix",
+              "detail": "Wöchentliche Anpassungen legendärer Ausrüstungs-Perks und Gegner-Skalierung"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Borderlands 4 Editions-Guide",
+          "description": "Vergleicht verfügbare Editionen, Bonusinhalte, DLC-Pakete und Plattformversionen. Hilft bei Kaufentscheidungen und zeigt Versionsunterschiede auf.",
+          "href": "/characters/borderlands-4-all-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Standard",
+              "detail": "Hauptspiel inklusive kompletter Planetenkampagne auf Kairos und Koop-Modi"
+            },
+            {
+              "label": "Deluxe",
+              "detail": "Enthält Retro-Kosmetik-Paket, Neon-Waffenskins und XP-Booster-Mod"
+            },
+            {
+              "label": "Super",
+              "detail": "Enthält Season Pass mit 4 nach Release erscheinenden Story-DLC-Erweiterungen"
+            },
+            {
+              "label": "Collector",
+              "detail": "Physische Kammerschlüssel-Replik, Artbook und exklusive digitale Beute"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen (FAQ)",
+      "description": "Wichtige Fragen und Antworten zu Gameplay, Plattformen, Builds und Features von Borderlands 4.",
+      "items": [
+        {
+          "question": "Was ist Borderlands 4?",
+          "answer": "Borderlands 4 ist ein erstklassiges Looter-Shooter-Action-RPG von Gearbox Software und 2K Games, das Spieler mit neuen Kammer-Jägern, Milliarden von Waffen und explosiver Vier-Spieler-Koop-Action auf den gefährlichen Planeten Kairos entführt."
+        },
+        {
+          "question": "Auf welchen Plattformen erscheint Borderlands 4?",
+          "answer": "Borderlands 4 erscheint für PC (über Steam und den Epic Games Store), PlayStation 5 und Xbox Series X|S mit vollständiger Crossplay-Unterstützung für den Koop-Multiplayer."
+        },
+        {
+          "question": "Wie viele Kammer-Jäger sind in Borderlands 4 spielbar?",
+          "answer": "Borderlands 4 bietet zum Launch vier brandneue spielbare Kammer-Jäger, die jeweils über anpassbare Action-Skills, eigene Skillbäume und unverwechselbare Kampfarchetypen verfügen."
+        },
+        {
+          "question": "Wie funktionieren SHiFT Codes in Borderlands 4?",
+          "answer": "In Borderlands 4 können offizielle SHiFT Codes über das Social-Menü im Spiel oder die Gearbox SHiFT-Website eingelöst werden, um Goldene Schlüssel, seltene Waffenpakete und einzigartige Skins zu erhalten."
+        },
+        {
+          "question": "Unterstützt Borderlands 4 Offline-Einzelspieler und Koop?",
+          "answer": "Ja, Borderlands 4 kann komplett solo im Offline-Modus oder mit bis zu vier Spielern im Online-Koop mit dynamischer Level-Skalierung und individuellem Beute-Drop gespielt werden."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit, Kairos in Borderlands 4 zu erkunden?",
+      "description": "Vom ersten Kammer-Jäger-Build über das Farmen legendärer Beute bis hin zu knallharten Endgame-Bosskämpfen – unser Community-Wiki bietet dir alle umfassenden Guides.",
+      "primary": "Builds & Guides entdecken",
+      "secondary": "Offizielle Website"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "activeCodes": "Aktive Codes",
+    "updated": "Aktualisiert",
+    "viewAllCodes": "Alle Codes anzeigen",
+    "playOnRoblox": "Auf Roblox spielen",
+    "inThisSection": "In diesem Bereich",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchst du Hilfe?",
+    "relatedReading": "Weiterführende Lektüre",
+    "relatedGuides": "Ähnliche Guides",
+    "readMore": "Mehr lesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Startseite",
+    "noGuidesAvailable": "Noch keine Guides verfügbar. Schau bald wieder vorbei!"
+  },
+  "footer": {
+    "aboutTitle": "Borderlands 4 Wiki",
+    "about": "Das Borderlands 4 Wiki ist ein unabhängiger, von Fans erstellter Guide-Hub für Kammer-Jäger-Builds, Waffen, Erkundung auf Kairos, Bosse und wichtiges Gameplay-Wissen.",
+    "quickLinks": "Schnelllinks",
+    "guides": "Guides",
+    "legal": "Rechtliches",
+    "copyright": "2026 Borderlands 4 Wiki. Nicht verbunden mit 2K oder Gearbox Software.",
+    "description": "Chaotisches Looter-Shooter-RPG mit neuen Kammer-Jägern, Milliarden von Waffen und Koop-Multiplayer auf Kairos.",
+    "playGame": "Offizielle Website",
+    "officialDiscord": "Offizielles Reddit",
+    "officialYoutube": "Offizieller YouTube-Kanal",
+    "vvBuilder": "Skillbaum-Planer",
+    "beginnerGuide": "Einsteiger-Guide",
+    "raceGuides": "Kammer-Jäger",
+    "bossGuides": "Boss-Guides",
+    "buildGuide": "Build-Guide",
+    "privacyPolicy": "Datenschutzerklärung",
+    "termsOfService": "Nutzungsbedingungen"
+  },
+  "codes": {
+    "overviewTitle": "Borderlands 4 SHiFT Codes & Belohnungen",
+    "overviewDescription": "Durchsuche aktive und geprüfte SHiFT Codes für Borderlands 4, um dir kostenlose Goldene Schlüssel, Waffen und exklusive Kosmetika zu sichern."
+  },
+  "guide": {
+    "overviewTitle": "Borderlands 4 Guides & Komplettlösungen",
+    "overviewDescription": "Wichtige Einsteiger-Guides, Erfolge-Walkthroughs, Gameplay-Tipps und Überlebensstrategien für die Erkundung der Wildnis von Kairos."
+  },
+  "characters": {
+    "overviewTitle": "Borderlands 4 Kammer-Jäger & Charaktere",
+    "overviewDescription": "Umfassende Übersicht über alle spielbaren Kammer-Jäger, Action-Skills, Klassen-Archetypen und Charakter-Hintergründe in Borderlands 4."
+  },
+  "combat": {
+    "overviewTitle": "Borderlands 4 Builds & Kampf-Guides",
+    "overviewDescription": "Beherrsche das Schlachtfeld mit den besten Kammer-Jäger-Builds, Waffen-Tier-Listen, Elementarschadens-Übersichten und optimalen Loadouts."
+  },
+  "items": {
+    "overviewTitle": "Borderlands 4 Waffen & Legendäre Gegenstände",
+    "overviewDescription": "Detaillierte Datenbank zu legendären Knarren, perlfarbener Ausrüstung, Herstellereigenschaften, Eridium-Farming und Ausrüstungs-Upgrades in Borderlands 4."
+  },
+  "maps": {
+    "overviewTitle": "Borderlands 4 Karten & Orte",
+    "overviewDescription": "Interaktive Planetenkarten, Kammer-Standorte, versteckte Schwarzmarkthändler und interessante Orte auf ganz Kairos."
+  },
+  "progression": {
+    "overviewTitle": "Borderlands 4 Leveln & Endgame-Fortschritt",
+    "overviewDescription": "Schneller leveln, effektive XP-Farming-Routen entdecken und Endgame-Herausforderungen wie den Ultimative-Kammer-Jäger-Modus meistern."
+  }
+}

@@ -1,1 +1,449 @@
-{}
+{
+  "site": {
+    "name": "Borderlands 4 Wiki",
+    "shortName": "Borderlands 4",
+    "tagline": "ビルド・武器・攻略ガイド",
+    "description": "Borderlands 4 Wikiでは、武器ガイド、ヴォルト・ハンターのビルド、スキルツリー、ゲームプレイのコツ、戦利品（ルート）情報など、惑星カイロスを冒険するために必要なすべての情報をお届けします。",
+    "legalNotice": "非公式ファンWikiです。プレイヤーによって、プレイヤーのために制作されています。"
+  },
+  "nav": {
+    "codes": "コード",
+    "guide": "ガイド",
+    "characters": "キャラクター",
+    "combat": "戦闘",
+    "items": "アイテム",
+    "maps": "マップ",
+    "progression": "育成"
+  },
+  "home": {
+    "meta": {
+      "title": "Borderlands 4 Wiki — ビルド・武器・ヴォルト・ハンター＆攻略ガイド",
+      "description": "Borderlands 4の総合コミュニティWiki。最強のヴォルト・ハンタービルド、武器ガイド、SHiFT Codes、ミッション、惑星カイロスでのサバイバル戦略を網羅。"
+    },
+    "hero": {
+      "eyebrow": "ファン作成コミュニティWiki",
+      "title": "Borderlands 4 Wiki",
+      "description": "Borderlands 4は、新たなヴォルト・ハンター、何十億もの武器、奥深いキャラクタービルド、協力マルチプレイを特徴とし、危険に満ちた惑星カイロスを舞台に繰り広げられるハチャメチャなシューティングRPGです。",
+      "stats": [
+        "発売時期: 2025年",
+        "4人のヴォルト・ハンター",
+        "何十億もの武器",
+        "毎週アップデート"
+      ],
+      "primaryCta": "ヴォルト・ハンタービルド",
+      "secondaryCta": "武器データベース",
+      "tertiaryCta": "カイロス攻略ガイド",
+      "videoLabel": "公式トレーラー"
+    },
+    "updates": {
+      "title": "最新アップデート",
+      "browse": "すべてのガイドを見る",
+      "viewAll": "すべて表示"
+    },
+    "start": {
+      "eyebrow": "ここからスタート",
+      "title": "Borderlands 4 の冒険へ",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者向けガイド",
+          "description": "危険なカイロスのフロンティアで役立つ、ルータシューターの基本メカニクス、移動システム、戦闘ループ、序盤のサバイバルのコツをマスター。"
+        },
+        {
+          "number": "2",
+          "title": "ヴォルト・ハンタークラス",
+          "description": "プレイ可能な4人のヴォルト・ハンター、特徴的なアクション・スキル、スキルツリーの分岐を比較して、自分の理想のプレイスタイルを見つけましょう。"
+        },
+        {
+          "number": "3",
+          "title": "最速レベル上げ＆経験値",
+          "description": "最適なクエスト順、モブの周回ルート、経験値ボーナスを活用して育成を加速させ、最速でエンドゲームに到達しましょう。"
+        },
+        {
+          "number": "4",
+          "title": "武器＆レジェンダリー装備",
+          "description": "銃器メーカーごとの特性、戦利品のレア度、ファーム戦略を学び、最高峰の強力な銃や装備を手に入れましょう。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "トレンド",
+      "quickLinks": [
+        "ヴォルト・ハンタービルド",
+        "レジェンダリー武器",
+        "SHiFT Codes",
+        "初心者向けガイド"
+      ],
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "初心者向けガイド",
+          "description": "カイロスへの到着直後から、武器、シールド、戦闘メカニクスの習熟まで必要なすべてを解説。",
+          "href": "/guide/borderlands-4-beginner-guide"
+        },
+        {
+          "badge": "更新",
+          "title": "SHiFT Codes",
+          "description": "金の鍵、スキン、無料の武器チェストを入手できる現在有効な Borderlands 4 SHiFT Codes。",
+          "href": "/codes/borderlands-4-shift-codes"
+        },
+        {
+          "badge": "ビルド",
+          "title": "ヴォルト・ハンタービルド",
+          "description": "4人のヴォルト・ハンター全員に向けた、最強のエンドゲームビルド、スキルポイント振り分け、装備シナジー。",
+          "href": "/combat/borderlands-4-builds"
+        },
+        {
+          "badge": "ルート",
+          "title": "レジェンダリー武器",
+          "description": "レジェンダリー銃、メーカー固有のギミック、ユニーク効果、ドロップ入手先の完全データベース。",
+          "href": "/items/borderlands-4-legendary-weapons"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Borderlands 4 とは？",
+      "paragraphs": [
+        "Borderlands 4 は、Gearbox Software が開発し、2K が販売するハチャメチャなルータシューターRPGです。危険に満ちた新惑星カイロスを舞台に、プレイヤーは4人の頼もしいヴォルト・ハンターの1人となり、冷酷なタイムキーパーや敵対勢力に立ち向かい、富と力と栄光を求めて戦いに挑みます。",
+        "何十億もの奇想天外な武器、奥深いスキルツリー、直感的なガンプレイ、シームレスな4人協力マルチプレイを備えた Borderlands 4 は、爆発力あふれる新たな未知のフロンティアで決定版となるルータシューター体験をお届けします。"
+      ],
+      "stats": [
+        {
+          "label": "開発元",
+          "value": "Gearbox Software"
+        },
+        {
+          "label": "発売元",
+          "value": "2K"
+        },
+        {
+          "label": "ジャンル",
+          "value": "ルータシューターRPG"
+        },
+        {
+          "label": "発売年",
+          "value": "2025年"
+        },
+        {
+          "label": "プラットフォーム",
+          "value": "PC, PS5, Xbox Series X|S"
+        },
+        {
+          "label": "ヴォルト・ハンター",
+          "value": "4人のプレイ可能クラス"
+        },
+        {
+          "label": "武器",
+          "value": "何十億もの銃"
+        },
+        {
+          "label": "マルチプレイ",
+          "value": "1〜4人協力プレイ"
+        }
+      ],
+      "cta": "すべてのガイドを見る"
+    },
+    "explore": {
+      "title": "Borderlands 4 Wiki を探索",
+      "description": "ヴォルト・ハンターのビルドを極め、レジェンダリー武器を追跡し、SHiFT Codesを引き換え、充実したガイドとともにカイロスの危険な世界を制覇しましょう。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Borderlands 4 ビルド",
+          "description": "人気のヴォルト・ハンタービルド、スキルツリーの組み合わせ、アクション・スキルの構成、プレイスタイルに応じたおすすめ装備を網羅。Borderlands 4 の最強ビルドを探しているプレイヤーに向けて、エンドゲーム用から初心者向け構成まで掲載しています。",
+          "href": "/combat/borderlands-4-builds",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "クリティカル",
+              "detail": "高弾速クリティカルスナイパー＆瞬間超火力DPS構成"
+            },
+            {
+              "label": "ステータス",
+              "detail": "アーマーやシールドを溶解する属性継続ダメージ特化"
+            },
+            {
+              "label": "タンク",
+              "detail": "シールド回復力と高生存率を誇る前線維持ビルド"
+            },
+            {
+              "label": "爆撃",
+              "detail": "高威力の爆発スプラッシュダメージとグレネード特化"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Borderlands 4 ヴォルト・ハンターガイド",
+          "description": "プレイ可能なヴォルト・ハンターのアビリティ、クラス、独自の戦闘スタイルを紹介。新規キャンペーンの開始時やメインキャラクターの選択時に各クラスを比較できます。",
+          "href": "/characters/borderlands-4-vault-hunters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "ハンター",
+              "detail": "戦術的な召喚と長距離高火力攻撃を駆使する精密トラッカー"
+            },
+            {
+              "label": "セイレーン",
+              "detail": "重力操作、属性波動、敵の足止めを得意とするフェーズエネルギーの使い手"
+            },
+            {
+              "label": "ソルジャー",
+              "detail": "防御用設置兵器や多彩な弾薬を統制する重火器のスペシャリスト"
+            },
+            {
+              "label": "ブローラー",
+              "detail": "容赦ない近接打撃の連打を叩き込むサイバネティック・巨漢"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Borderlands 4 武器ガイド",
+          "description": "レジェンダリー武器、ルートシステム、銃器メーカーの特徴、ドロップ周回戦略の情報を提供。強力な装備やおすすめの武器を探しているプレイヤーに最適です。",
+          "href": "/items/borderlands-4-legendary-weapons",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "戦況を一変させる特殊効果と圧倒的な対ボスDPSを誇る最高峰レジェンダリー"
+            },
+            {
+              "label": "A",
+              "detail": "強力な属性スケーリングを持つ汎用性の高い高性能武器"
+            },
+            {
+              "label": "B",
+              "detail": "メーカー特性との噛み合わせが良い、中盤やレベリングに最適な信頼性の高い銃"
+            },
+            {
+              "label": "C",
+              "detail": "特定の状況やキャンペーン序盤で役立つ局所的な武器"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Borderlands 4 初心者向けガイド",
+          "description": "基本的なゲームプレイシステム、戦闘メカニクス、探索、協力プレイ機能、育成のコツを網羅した入門ガイド。新規プレイヤーがルータシューターの醍醐味を素早く理解できるようサポートします。",
+          "href": "/guide/borderlands-4-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "好みの戦闘テンポに合った初期ヴォルト・ハンターを選択"
+            },
+            {
+              "label": "2",
+              "detail": "シールド、アーマー、生体に合わせて効果的な属性武器を装備"
+            },
+            {
+              "label": "3",
+              "detail": "序盤のスキルポイントはアクション・スキルのクールダウンや生存力に投資"
+            },
+            {
+              "label": "4",
+              "detail": "カイロス各地に隠されたヴォルトの隠し場所を探索し高レア装備を確定入手"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Borderlands 4 ミッションガイド",
+          "description": "カイロス全域のメインストーリーミッション、サイドクエスト、目標、重要アクティビティを整理。攻略手順やミッション進行の確認に役立ちます。",
+          "href": "/guide/borderlands-4-walkthrough",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "プロローグ＆到達: カイロスでの前線拠点を確保"
+            },
+            {
+              "label": "2",
+              "detail": "勢力外交: 現地のアウトポストやレジスタンス戦士と同盟を結ぶ"
+            },
+            {
+              "label": "3",
+              "detail": "ヴォルトの鍵潜入: タイムキーパーが守る封印された古代遺跡を解除"
+            },
+            {
+              "label": "4",
+              "detail": "エンドゲーム決戦: 真のヴォルト・ハンターモードの試練やレイドボスに挑戦"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Borderlands 4 SHiFT Codes",
+          "description": "公式のSHiFT Codes発表、引き換え方法、利用可能な報酬を随時追跡。無料報酬や金の鍵に関する情報を探しているプレイヤー向けです。",
+          "href": "/codes/borderlands-4-shift-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "BL4-KEYS-2025",
+              "detail": "サンクチュアリ＆カイロスの宝箱に使える金の鍵×3",
+              "badge": "有効"
+            },
+            {
+              "label": "VAULT-HUNT-XP",
+              "detail": "限定ヴォルト・ハンター武器スキン＆経験値ブースター",
+              "badge": "有効"
+            },
+            {
+              "label": "KAIROS-LOOT-BOX",
+              "detail": "2K SHiFTポータルまたはゲーム内のソーシャルメニューで引き換え可能",
+              "badge": "有効"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Borderlands 4 最新情報",
+          "description": "公式パッチノート、DLC発表、シーズンコンテンツ、ゲームプレイの更新情報を掲載。新機能、バランス調整、発売後の追加コンテンツを公式情報から確認できます。",
+          "href": "/guide/borderlands-4-tips-and-tricks",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "パッチ",
+              "detail": "パフォーマンス最適化と武器ドロップ率を調整するデイワンパッチ"
+            },
+            {
+              "label": "シーズン",
+              "detail": "限定スキン報酬が手に入る近日開催のシーズンイベント"
+            },
+            {
+              "label": "ロードマップ",
+              "detail": "発売後のストーリーDLC拡張パックと追加レイドボス戦"
+            },
+            {
+              "label": "ホットフィックス",
+              "detail": "レジェンダリー装備の特殊効果や敵のスケーリングに関する定期調整"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Borderlands 4 エディションガイド",
+          "description": "販売エディション、特典コンテンツ、DLCパッケージ、対応プラットフォームを比較。購入オプションやエディションの違いを確認できます。",
+          "href": "/characters/borderlands-4-all-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "通常版",
+              "detail": "惑星カイロスでのキャンペーン全編と協力プレイモードを含む基本ゲーム"
+            },
+            {
+              "label": "デラックス",
+              "detail": "レトロコスメティックパック、ネオン武器スキン、経験値ブースターMODを同梱"
+            },
+            {
+              "label": "スーパー",
+              "detail": "発売後のキャンペーンDLC全4種を含むシーズンパスを同梱"
+            },
+            {
+              "label": "コレクター",
+              "detail": "ヴォルトの鍵の実物レプリカ、アートブック、限定デジタル戦利品"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "よくある質問",
+      "description": "Borderlands 4 のゲームプレイ、プラットフォーム、ビルド、各種機能に関する基本的なQ&A。",
+      "items": [
+        {
+          "question": "Borderlands 4 とはどんなゲームですか？",
+          "answer": "Borderlands 4 は、Gearbox Software と 2K が手掛ける最高峰のルータシューター・アクションRPGです。新たなヴォルト・ハンター、何十億もの武器、ド派手な4人協力プレイとともに、危険に満ちた惑星カイロスでの戦いが描かれます。"
+        },
+        {
+          "question": "Borderlands 4 はどのプラットフォームで発売されますか？",
+          "answer": "Borderlands 4 はPC（SteamおよびEpic Games Store）、PlayStation 5、Xbox Series X|S向けに発売され、完全なクロスプレイ協力マルチプレイに対応しています。"
+        },
+        {
+          "question": "Borderlands 4 でプレイ可能なヴォルト・ハンターは何人ですか？",
+          "answer": "Borderlands 4 では発売時点で完全新規の4人のヴォルト・ハンターが登場し、それぞれカスタマイズ可能なアクション・スキル、専用のスキルツリー、独自の戦闘タイプを持っています。"
+        },
+        {
+          "question": "Borderlands 4 の SHiFT Codes はどのように機能しますか？",
+          "answer": "Borderlands 4 では、ゲーム内のソーシャルメニューまたは Gearbox SHiFT 公式サイトで公式コードを引き換えることで、金の鍵、レア武器チェスト、限定コスメティックスキンなどを獲得できます。"
+        },
+        {
+          "question": "Borderlands 4 はオフラインのソロプレイや協力プレイに対応していますか？",
+          "answer": "はい。Borderlands 4 はオフラインでの完全ソロプレイに対応しているほか、ダイナミックなレベルスケーリングと個別ドロップシステムを備えた最大4人のオンライン協力プレイも楽しめます。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Borderlands 4 のカイロスを探索する準備はできましたか？",
+      "description": "最初のヴォルト・ハンタービルドから、レジェンダリー掘り、エンドゲームのボス攻略まで、当コミュニティWikiの充実したガイドがサポートします。",
+      "primary": "ビルド＆ガイドを見る",
+      "secondary": "公式サイト"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Wikiナビゲーション",
+    "activeCodes": "有効なコード",
+    "updated": "更新済み",
+    "viewAllCodes": "すべてのコードを見る",
+    "playOnRoblox": "Robloxでプレイ",
+    "inThisSection": "このセクション内",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "お困りですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "利用可能なガイドはまだありません。後ほどご確認ください！"
+  },
+  "footer": {
+    "aboutTitle": "Borderlands 4 Wiki",
+    "about": "Borderlands 4 Wikiは、ヴォルト・ハンターのビルド、武器、惑星カイロスの探索、ボス、必須の攻略知識を網羅する独立したファン作成ガイドハブです。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド一覧",
+    "legal": "法的情報",
+    "copyright": "2026 Borderlands 4 Wiki. Not affiliated with 2K or Gearbox Software.",
+    "description": "カイロスを舞台に、新たなヴォルト・ハンター、何十億もの武器、協力マルチプレイが楽しめるルータシューターRPG。",
+    "playGame": "公式サイト",
+    "officialDiscord": "公式Reddit",
+    "officialYoutube": "公式YouTube",
+    "vvBuilder": "スキルツリービルダー",
+    "beginnerGuide": "初心者向けガイド",
+    "raceGuides": "ヴォルト・ハンター",
+    "bossGuides": "ボス攻略",
+    "buildGuide": "ビルドガイド",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  },
+  "codes": {
+    "overviewTitle": "Borderlands 4 SHiFT Codes＆特典",
+    "overviewDescription": "Borderlands 4 の有効かつ確認済みの SHiFT Codes を確認して、無料の金の鍵、武器報酬、限定コスメティックアイテムを手に入れましょう。"
+  },
+  "guide": {
+    "overviewTitle": "Borderlands 4 攻略ガイド＆進行手順",
+    "overviewDescription": "カイロスのフロンティアを探索するための必須初心者ガイド、実績攻略、ゲームプレイのコツ、サバイバル戦略。"
+  },
+  "characters": {
+    "overviewTitle": "Borderlands 4 ヴォルト・ハンター＆キャラクター",
+    "overviewDescription": "Borderlands 4 に登場するすべてのプレイ可能なヴォルト・ハンター、アクション・スキル、クラスタイプ、キャラクター設定の完全概要。"
+  },
+  "combat": {
+    "overviewTitle": "Borderlands 4 ビルド＆戦闘ガイド",
+    "overviewDescription": "最強ヴォルト・ハンタービルド、武器ティアリスト、属性ダメージ表、最適な戦闘ロードアウトで戦場を支配しましょう。"
+  },
+  "items": {
+    "overviewTitle": "Borderlands 4 武器＆レジェンダリーアイテム",
+    "overviewDescription": "Borderlands 4 のレジェンダリー銃、パールセント装備、銃器メーカーの特性、イリジウム集め、装備強化に関する詳細データベース。"
+  },
+  "maps": {
+    "overviewTitle": "Borderlands 4 マップ＆ロケーション",
+    "overviewDescription": "インタラクティブな惑星マップ、ヴォルトの場所、隠されたブラックマーケットの商人、カイロス全域の重要ポイント。"
+  },
+  "progression": {
+    "overviewTitle": "Borderlands 4 レベリング＆エンドゲーム進行",
+    "overviewDescription": "効率的なレベル上げ、高速経験値ファームルート、真のヴォルト・ハンターモードを含むエンドゲームコンテンツの攻略。"
+  }
+}
