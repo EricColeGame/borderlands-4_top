@@ -18,17 +18,17 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
+  name: "Borderlands 4 Wiki",
+  shortName: "Borderlands 4",
+  logoText: "B4",
+  tagline: "Builds, Weapons & Guides",
+  description: "Borderlands 4 Wiki provides weapon guides, Vault Hunter builds, skill trees, gameplay tips, and loot information.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://borderlands-4.top",
+  gameUrl: "https://borderlands.com/",
+  heroVideoId: "26vY2GMfYTw", // Borderlands 4 Official First Look Trailer
   social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
+    discord: "https://discord.gg/borderlands",
+    youtube: "https://www.youtube.com/@Borderlands",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
