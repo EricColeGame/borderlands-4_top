@@ -9,8 +9,8 @@
   "nav": {},
   "home": {
     "meta": {
-      "title": "My Seafood Stand Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "Borderlands 4 Wiki — Builds, Weapons, Vault Hunters & Guides",
+      "description": "Comprehensive Borderlands 4 community wiki with top Vault Hunter builds, weapon guides, SHiFT codes, missions, and Kairos survival strategies."
     },
     "hero": {
       "eyebrow": "Fan-Made Community Wiki",
@@ -34,27 +34,27 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your Borderlands 4 Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Master core looter shooter mechanics, movement systems, combat loops, and early survival tips across the dangerous frontier of Kairos."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Vault Hunter Classes",
+          "description": "Compare all four playable Vault Hunters, their distinctive Action Skills, and skill tree branches to find your ideal playstyle."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Fastest Leveling & XP",
+          "description": "Accelerate your progression with optimal quest routing, mob farming routes, and XP bonuses to reach the endgame faster."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "Weapons & Legendary Loot",
+          "description": "Learn weapon manufacturer traits, loot rarity tiers, and farming strategies to secure the most lethal guns and gear."
         }
       ]
     },
@@ -62,237 +62,280 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Vault Hunter Builds",
+        "Legendary Weapons",
+        "SHiFT Codes",
+        "Beginner Guide"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Everything you need from your initial arrival on Kairos to mastering weapons, shields, and combat mechanics.",
+          "href": "/guide/borderlands-4-beginner-guide"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "title": "SHiFT Codes",
+          "description": "Active Borderlands 4 SHiFT codes for Golden Keys, cosmetics, and free weapon cache unlocks.",
+          "href": "/codes/borderlands-4-shift-codes"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Builds",
+          "title": "Vault Hunter Builds",
+          "description": "Top endgame builds, skill point distributions, and gear synergies for all four Vault Hunters.",
+          "href": "/combat/borderlands-4-builds"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
-        },
-        {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Loot",
+          "title": "Legendary Weapons",
+          "description": "Complete database of legendary guns, manufacturer gimmicks, unique effects, and farming drop sources.",
+          "href": "/items/borderlands-4-legendary-weapons"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What is Borderlands 4?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Borderlands 4 is a chaotic looter shooter RPG developed by Gearbox Software and published by 2K. Set on the perilous new planet Kairos, players take up arms as one of four formidable Vault Hunters seeking fortune, power, and glory against the ruthless Timekeeper and hostile factions.",
+        "Featuring billions of wildly imaginative weapons, deep character skill trees, visceral gunplay, and seamless 4-player cooperative multiplayer, Borderlands 4 delivers the definitive looter shooter adventure across explosive new alien frontiers."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Gearbox Software"
         },
         {
-          "label": "Platform",
-          "value": "Roblox"
+          "label": "Publisher",
+          "value": "2K Games"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Looter Shooter RPG"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Release Year",
+          "value": "2025"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Platforms",
+          "value": "PC, PS5, Xbox Series X|S"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Vault Hunters",
+          "value": "4 Playable Classes"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Weapons",
+          "value": "Billions of Guns"
+        },
+        {
+          "label": "Multiplayer",
+          "value": "1-4 Players Co-Op"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore My Seafood Stand Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore Borderlands 4 Wiki",
+      "description": "Master Vault Hunter builds, track legendary weapons, redeem SHiFT codes, and conquer the dangerous world of Kairos with our complete guides.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "Borderlands 4 Builds",
+          "description": "This module covers popular Vault Hunter builds, skill tree combinations, Action Skill setups, and recommended gear choices for different playstyles. Players searching for the best Borderlands 4 build options can find endgame and beginner-friendly setups here.",
+          "href": "/combat/borderlands-4-builds",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "Crit",
+              "detail": "High-velocity critical hit sniper & burst DPS setup"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "Status",
+              "detail": "Elemental damage-over-time melting armor & shields"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "Tank",
+              "detail": "Shield regeneration and survivability frontline build"
+            },
+            {
+              "label": "Ordnance",
+              "detail": "Heavy explosive splash damage and grenade specialization"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Borderlands 4 Vault Hunters Guide",
+          "description": "Introduces the playable Vault Hunters, their abilities, classes, and unique combat styles. This section helps players compare characters before starting a new campaign or choosing a main character.",
+          "href": "/characters/borderlands-4-vault-hunters",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Hunter",
+              "detail": "Precision tracker utilizing tactical summons and lethal long-range ordinance"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Siren",
+              "detail": "Phase energy specialist manipulating gravity, elemental surges, and crowd control"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Soldier",
+              "detail": "Heavy weapons specialist commanding defensive deployables and munitions"
+            },
+            {
+              "label": "Brawler",
+              "detail": "Close-quarters cybernetic juggernaut focused on relentless melee impacts"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
+          "name": "Borderlands 4 Weapons Guide",
+          "description": "Provides information about legendary weapons, loot systems, weapon manufacturers, and farming strategies. It targets searches from players looking for powerful gear and weapon recommendations.",
+          "href": "/items/borderlands-4-legendary-weapons",
           "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "S",
+              "detail": "Top-tier legendary firearms with game-changing perks and supreme boss DPS"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "A",
+              "detail": "Versatile high-performance weapons with strong elemental scaling"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "B",
+              "detail": "Reliable mid-game and leveling guns with solid manufacturer synergies"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "C",
+              "detail": "Situational weapons suited for specific niche challenges or early campaign"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Borderlands 4 Beginner Guide",
+          "description": "A starting guide covering basic gameplay systems, combat mechanics, exploration, co-op features, and progression tips. It helps new players understand the core looter shooter experience quickly.",
+          "href": "/guide/borderlands-4-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "1",
+              "detail": "Choose your starter Vault Hunter aligned with your favorite combat tempo"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "2",
+              "detail": "Equip matching elemental weapons against shields, armor, and flesh"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "3",
+              "detail": "Invest early skill points into action skill cooldown and survivability"
+            },
+            {
+              "label": "4",
+              "detail": "Explore hidden Vault caches across Kairos for guaranteed high-tier loot"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Borderlands 4 Missions Guide",
+          "description": "Organizes main story missions, side quests, objectives, and important activities across Kairos. This module can capture searches related to walkthroughs and mission progression.",
+          "href": "/guide/borderlands-4-walkthrough",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "1",
+              "detail": "Prologue & Arrival: Establish frontline foothold on Kairos"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "2",
+              "detail": "Faction Diplomacy: Ally with local outposts and resistance fighters"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "3",
+              "detail": "Vault Key Infiltration: Unlock sealed alien ruins guarded by the Timekeeper"
+            },
+            {
+              "label": "4",
+              "detail": "Endgame Showdown: Complete Ultimate Vault Hunter challenges and raid bosses"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Borderlands 4 SHiFT Codes",
+          "description": "Tracks official SHiFT code announcements, redemption information, and available rewards when new codes are released. This targets players searching for free rewards and Golden Key related content.",
+          "href": "/codes/borderlands-4-shift-codes",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "BL4-KEYS-2025",
+              "detail": "3x Golden Keys for Sanctuary Sanctuary & Kairos Loot Chests",
+              "badge": "Active"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "VAULT-HUNT-XP",
+              "detail": "Limited Edition Vault Hunter Weapon Skin & XP Booster",
+              "badge": "Active"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "KAIROS-LOOT-BOX",
+              "detail": "Redeem on 2K SHiFT portal or in-game social menu",
+              "badge": "Active"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Borderlands 4 Updates",
+          "description": "Displays official patch notes, DLC announcements, seasonal content, and gameplay updates. Players can follow new features, balance changes, and post-launch content from official sources.",
+          "href": "/guide/borderlands-4-tips-and-tricks",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Patch",
+              "detail": "Day-one balance patch optimizing performance and weapon drop rates"
+            },
+            {
+              "label": "Season",
+              "detail": "Upcoming seasonal events featuring exclusive cosmetic rewards"
+            },
+            {
+              "label": "Roadmap",
+              "detail": "Post-launch story DLC expansions and additional raid boss encounters"
+            },
+            {
+              "label": "Hotfix",
+              "detail": "Weekly tuning of legendary gear perks and enemy scaling"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Borderlands 4 Editions Guide",
+          "description": "Compares available editions, bonus content, DLC packages, and platform versions. This section helps users searching for purchase options and edition differences.",
+          "href": "/characters/borderlands-4-all-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Standard",
+              "detail": "Base game including full planetary campaign on Kairos and co-op modes"
+            },
+            {
+              "label": "Deluxe",
+              "detail": "Includes Retro Cosmetic Pack, Neon Weapon Skins, and XP booster mod"
+            },
+            {
+              "label": "Super",
+              "detail": "Includes Season Pass with 4 post-launch campaign DLC expansions"
+            },
+            {
+              "label": "Collector",
+              "detail": "Physical replica Vault key, art book, and exclusive digital loot"
             }
           ]
         }
@@ -300,27 +343,27 @@
     },
     "faq": {
       "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "description": "Essential questions and answers about Borderlands 4 gameplay, platforms, builds, and features.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Borderlands 4?",
+          "answer": "Borderlands 4 is a premier looter shooter action RPG created by Gearbox Software and 2K Games, taking players to the dangerous planet of Kairos with new Vault Hunters, billions of weapons, and explosive four-player co-op action."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Which platforms will Borderlands 4 be released on?",
+          "answer": "Borderlands 4 is launching on PC (via Steam and Epic Games Store), PlayStation 5, and Xbox Series X|S with full cross-play cooperative multiplayer support."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "How many Vault Hunters are playable in Borderlands 4?",
+          "answer": "Borderlands 4 features four brand-new playable Vault Hunters at launch, each equipped with customizable Action Skills, dedicated skill trees, and distinct combat archetypes."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "How do SHiFT codes work in Borderlands 4?",
+          "answer": "In Borderlands 4, players can redeem official SHiFT codes via the in-game Social menu or the Gearbox SHiFT website to receive Golden Keys, rare weapon caches, and unique cosmetic skins."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Does Borderlands 4 support offline solo play and co-op?",
+          "answer": "Yes, Borderlands 4 can be experienced completely solo offline, or with up to four players in online co-op with dynamic level scaling and individualized loot drops."
         }
       ]
     },
