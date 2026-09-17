@@ -1,0 +1,172 @@
+export const metadata = {
+  title: "Best Borderlands 4 Mods and Installation Guide: Boost FPS, Loot, and Gameplay",
+  description: "Discover the best Borderlands 4 mods to boost FPS, overhaul loot drops, clean up UI, and unlock split-screen co-op with our easy installation guide.",
+  category: "items",
+  date: "2026-09-17",
+}
+
+Vault Hunters looking to elevate their chaotic adventures across the galaxy are already turning to **Borderlands 4 mods** to customize every aspect of their playthrough. Whether you want to smooth out stuttering frame rates, skip tedious unskippable splash intros, or tailor legendary drop rates to your liking, using **Borderlands 4 mods** unlocks the true potential of your PC setup. From essential quality-of-life tweaks to complete engine overhauls, the modding community has quickly produced game-changing tools that transform how you loot, shoot, and explore.
+
+Finding the right balance between raw power, visual clarity, and steady performance can take your experience from frustrating to phenomenal. In this guide, we cover the top modifications available today, provide step-by-step installation instructions for Steam and Epic Games players, and share essential troubleshooting tips.
+
+---
+
+## Top Borderlands 4 Mods to Download Right Now
+
+The early modding scene features a diverse mix of performance enhancers, balance tweaks, and quality-of-life upgrades. Based on player experience and modding hub tracking, the community has organized these additions into distinct categories.
+
+### 1. Gameplay and Loot Overhauls
+
+Loot progression defines the looter-shooter loop, but default drop rates and inventory constraints can sometimes slow the action down.
+
+* **Difficulty and Loot Tweaks:** A fully customizable suite allowing players to scale XP gain, damage output, cash multipliers, and legendary drop rates. Community reports highlight configurations ranging from casual single-kill leveling to ultra-hardcore boss runs.
+* **No Wasted Coms (Almost):** Dramatically reduces class mod drops for Vault Hunters outside your active character, significantly cutting down on inventory clutter during farming runs.
+* **Big Backpacks:** Expands standard inventory storage limits up to 95 slots, making extended dungeon dives and Takedown raids seamless.
+* **Better Weapons & Rep Kits:** Adjusts weapon handling by reducing recoil patterns and increasing fire rates while offering modular recovery kits (from instant emergency heals to realistic, slow-acting bandages).
+
+### 2. UI and Quality-of-Life Improvements
+
+Cluttered interfaces can obscure critical combat queues during chaotic firefights.
+
+* **Minimal HUD & UI Tweaks:** Downscales or hides compass radars, fades out experience pop-ups faster, and removes hip-fire reticles for an immersive, screen-clearing tactical look across 1080p, 1440p, and 4K displays.
+* **BL4 AutoReload:** Eliminates the natural pause before empty-clip reloading triggers, giving weapon archetypes like Jakobs snappy, responsive handling.
+* **No Fog of War:** Clears the hidden terrain overlay from the world map, allowing completionists to plan efficient exploration routes.
+* **2-Player Split-Screen Unlocked:** Unhides native couch co-op functionality buried in the PC client, complete with separate UI profiles and menu navigation.
+
+### 3. Performance and Visual Enhancers
+
+* **Disable Reflection & Lumen GI Performance (`Engine.ini` tweak):** Reconfigures heavy lighting pipelines to deliver noticeable double-digit frame rate gains in demanding open zones.
+* **No Intro / No Splash:** Bypasses startup logos and splash sequences, dropping you directly into the main menu in seconds.
+* **Thinner Cel Shading & ReShade Presets:** Clarifies character outlines and sharpens textures without breaking inventory menu rendering.
+
+---
+
+## Best Borderlands 4 Mods Overview Table
+
+The table below breaks down the top community-tested modifications, their primary functions, and their target player benefits:
+
+| Mod Name | Category | Primary Function | Ideal For |
+| :--- | :--- | :--- | :--- |
+| **Difficulty and Loot Tweaks** | Balance / Progression | Configurable XP, cash multipliers, and legendary drop scaling | Players seeking custom progression speed |
+| **No Wasted Coms** | Loot Quality | Restricts class mod drops to your current active class | Efficient gear farming and endgame builds |
+| **Minimal HUD / UI Tweaks** | Interface | Removes screen clutter, scales radar, removes hip crosshair | Clean visuals and immersion enthusiasts |
+| **Big Backpacks** | Quality of Life | Expands inventory capacity up to 95 slots | Hoarders and long-session raiders |
+| **Engine.ini Performance Boost** | Optimization | Tweaks Lumen global illumination and reflections | Budget GPUs and low-framerate setups |
+| **No Intro & No Splash** | Utility | Bypasses developer splash screens on boot | Fast game startup times |
+| **2-Player Split-Screen** | Gameplay / Co-op | Restores native dual-player local co-op on PC | Local multiplayer and couch gaming |
+| **BL4 Super Dash & AutoReload** | Mechanics | Smooth movement binds and instant empty-mag reloads | Fast-paced combat and movement tech |
+
+---
+
+## How to Install Borderlands 4 Mods (Steam & Epic Games)
+
+Installing standard pak mods requires accessing your game’s root directory. The installation process is straightforward whether you launch via the Epic Games Store or the [official Steam client](https://store.steampowered.com/).
+
+```
+Game Root Folder Path Reference:
+Steam:  ...\Steam\steamapps\common\Borderlands 4\
+Epic:   ...\Epic Games\Borderlands 4\
+```
+
+### Locating Your Game Files
+
+1. **Steam Users:** Open your Steam Library, right-click *Borderlands 4*, select **Manage**, then click **Browse local files**.
+2. **Epic Games Users:** Open your Epic Library, locate the game tile, click the **three horizontal dots (... )**, select **Manage**, and click the folder icon next to the installation path.
+3. Ensure file extensions are visible in Windows Explorer by opening **Folder Options > View tab** and unchecking **Hide extensions for known file types**.
+
+### Standard PAK Mod Installation
+
+Most cosmetic, UI, and balance adjustments are distributed as compressed `.zip` or `.rar` archives containing raw pak files.
+
+| Step | Action | Target Directory / Notes |
+| :--- | :--- | :--- |
+| **Step 1** | Navigate to Game Subfolder | Go to `Borderlands 4\OakGame\Content\Paks\` |
+| **Step 2** | Create Mods Folder | Right-click inside `Paks` and create a new folder named `~mods` (or `mods`) |
+| **Step 3** | Extract Files | Extract your downloaded archive using 7-Zip, WinRAR, or Windows Extractor |
+| **Step 4** | Transfer Files | Copy the `.pak` and associated files into the new `mods` folder |
+| **Step 5** | Verify & Launch | Boot the game to confirm mod activation |
+
+---
+
+## Installing Optimization INI Fixes and Splash Skips
+
+Performance mods and intro bypasses use different directories than standard pak files. Placing them in the wrong folder will prevent them from loading.
+
+### Performance INI Configuration
+
+Config tweaks modify engine rendering parameters to recover lost frames during intense gunfights.
+
+1. Download the optimized `Engine.ini` replacement file.
+2. Press `Win + R` and paste: `%USERPROFILE%\Documents\My Games\Borderlands 4\Saved\Config\Windows\`
+3. Rename your original `Engine.ini` to `Engine.ini.bak` to preserve a safe backup.
+4. Drag and drop the downloaded custom `Engine.ini` into the directory.
+
+### Performance Impact of Engine Adjustments
+
+| Configuration Setting | Default State | Modded Optimization | Expected Framerate Gain |
+| :--- | :--- | :--- | :--- |
+| **Lumen Global Illumination** | High Quality Bounce | Optimized Trace Samples | +10% to +18% FPS |
+| **Screen Space Reflections** | Full Resolution Dynamic | Diffuse Culling Enabled | +8% to +15% FPS |
+| **Volumetric Fog Density** | Ultra Sampling | Balanced Step Calculations | +5% to +10% FPS |
+| **Startup Splash Bypasses** | Video Playback Enabled | Direct Engine Init | 15–25s Faster Boot Time |
+
+---
+
+## Setting Up Custom ReShade Presets for Borderlands 4
+
+ReShade allows you to inject ambient occlusion, color grading, sharpening filters, and bloom adjustments directly into the rendering pipeline.
+
+| Step Number | Phase | Instructions |
+| :--- | :--- | :--- |
+| **1** | Tool Download | Download the latest ReShade installer (DirectX 10/11/12 support). |
+| **2** | Target Selection | Point installer to `Borderlands 4\OakGame\Binaries\Win64\Borderlands4.exe`. |
+| **3** | Shader Packs | Select all standard effect packages during setup for complete compatibility. |
+| **4** | Preset Placement | Place your chosen `.ini` preset files inside the `Win64` directory alongside the game executable. |
+| **5** | In-Game Setup | Press the `Home` key in-game to access the ReShade menu and select your active preset. |
+
+---
+
+## Importing Endgame and Level Boost Save Files
+
+If you want to test endgame builds without replaying the campaign on multiple Vault Hunters, save game decrypters allow you to import max-level character profiles.
+
+```
+Steam Save Directory:
+%USERPROFILE%\Documents\My Games\Borderlands 4\Saved\SaveGames\<YourSteamID64>\Client\
+```
+
+### Save File Transfer Steps
+
+1. **Back Up Current Progress:** Always copy your entire `SaveGames` folder to a separate secure location before modifying save files.
+2. **Retrieve SteamID64:** Copy your account identification string from Steam account settings or community lookup tools.
+3. **Format Profile Saves:** Run the community save encryption tool (such as save decryptor utilities) to pair downloaded YAML/character templates with your personal SteamID.
+4. **Deploy Files:** Paste the converted numeric `.sav` files into your active Steam profile folder.
+5. **Load In-Game:** Launch the title and select **Load Vault Hunter** to confirm your new maxed-out character appears on the roster.
+
+*Note: According to player experience, save file injection tools are currently optimized for Steam installations and may require alternative converter scripts on other storefront clients.*
+
+---
+
+## Multiplayer Compatibility and Mod Etiquette
+
+Running mods while playing online requires careful attention to host authority rules. Because Borderlands relies on a peer-to-peer networking architecture, certain modifications behave differently across sessions:
+
+* **Host-Side Priority:** Balance mods affecting world scaling, XP gain multipliers, and loot drops apply to everyone in the party if the session host has them installed.
+* **Client-Side Visuals:** HUD changes, ReShade filters, and audio replacements only affect the local player and do not cause desyncs with teammates.
+* **Save File Integrity:** Using modded items with excessive stats or altered skill points in public matchmaking can negatively impact other players' enjoyment. Always check with friends before running high-multiplier drop mods during co-op sessions.
+
+---
+
+## Frequently Asked Questions
+
+### Can you get banned for using Borderlands 4 mods in co-op?
+No. Borderlands titles use peer-to-peer cooperative multiplayer without invasive anti-cheat systems. However, to ensure a fun experience for everyone, avoid using extreme damage or drop-rate mods in open public lobbies without group consent.
+
+### Where is the Borderlands 4 mods folder located?
+For standard pak mods, create a folder named `mods` (or `~mods`) inside `...\Borderlands 4\OakGame\Content\Paks\`. For configuration tweaks, files belong in `%USERPROFILE%\Documents\My Games\Borderlands 4\Saved\Config\Windows\`.
+
+### Do Borderlands 4 mods disable achievements on Steam?
+In general, standard visual, performance, and inventory modifications do not disable platform achievements. However, certain heavy memory-hooking utilities or total conversion plugins may interfere with tracking script triggers.
+
+### What should I do if a mod crashes my game on startup?
+Remove recently added files from your `Paks\mods` folder one by one to identify the incompatible file. If an `Engine.ini` tweak causes launch errors, delete it and verify your game files via Steam or Epic Games to restore default settings.

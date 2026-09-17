@@ -6,7 +6,15 @@
     "description": "Borderlands 4 Wiki provides weapon guides, Vault Hunter builds, skill trees, gameplay tips, loot information, and everything players need for Kairos adventures.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {},
+  "nav": {
+    "codes": "Codes",
+    "guide": "Guide",
+    "characters": "Characters",
+    "combat": "Combat",
+    "items": "Items",
+    "maps": "Maps",
+    "progression": "Progression"
+  },
   "home": {
     "meta": {
       "title": "Borderlands 4 Wiki — Builds, Weapons, Vault Hunters & Guides",
@@ -374,7 +382,6 @@
       "secondary": "Official Website"
     }
   },
-  "bosses": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -410,5 +417,33 @@
     "buildGuide": "Build Guide",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
+  },
+  "codes": {
+    "overviewTitle": "Borderlands 4 SHiFT Codes & Rewards",
+    "overviewDescription": "Browse active and verified SHiFT codes for Borderlands 4 to claim free Golden Keys, weapon rewards, and exclusive cosmetic items."
+  },
+  "guide": {
+    "overviewTitle": "Borderlands 4 Guides & Walkthroughs",
+    "overviewDescription": "Essential beginner guides, achievement walkthroughs, gameplay tips, and survival strategies for exploring the frontier of Kairos."
+  },
+  "characters": {
+    "overviewTitle": "Borderlands 4 Vault Hunters & Characters",
+    "overviewDescription": "Comprehensive overview of all playable Vault Hunters, Action Skills, class archetypes, and character lore in Borderlands 4."
+  },
+  "combat": {
+    "overviewTitle": "Borderlands 4 Builds & Combat Guides",
+    "overviewDescription": "Master the battlefield with top Vault Hunter builds, weapon tier lists, elemental damage charts, and optimal combat loadouts."
+  },
+  "items": {
+    "overviewTitle": "Borderlands 4 Weapons & Legendary Items",
+    "overviewDescription": "Detailed database of legendary guns, pearlescent gear, manufacturer traits, Eridium farming, and gear enhancements in Borderlands 4."
+  },
+  "maps": {
+    "overviewTitle": "Borderlands 4 Maps & Locations",
+    "overviewDescription": "Interactive planetary maps, Vault locations, hidden black market vendors, and points of interest across Kairos."
+  },
+  "progression": {
+    "overviewTitle": "Borderlands 4 Leveling & Endgame Progression",
+    "overviewDescription": "Accelerate leveling, discover fast XP farming routes, and conquer endgame modes including Ultimate Vault Hunter Mode."
   }
 }
